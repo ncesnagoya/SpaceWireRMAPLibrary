@@ -4,3 +4,5 @@
 **/b/
 **/build
 **/CMakeFiles
+doc/html/
+doc/xml/
